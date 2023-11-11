@@ -82,6 +82,10 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
+define('FS_METHOD', 'direct');
+define('FTP_HOST', 'localhost');
+define('FTP_USER', 'gendis');
+define('FTP_PASS', '2412'); 
 
 
 
